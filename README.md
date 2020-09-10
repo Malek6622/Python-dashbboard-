@@ -1,4 +1,4 @@
-# dashbboard-built using python and dash(plotly)
+# Dashbboard built using python and dash(plotly)
 Hello everyone!
 So that's basically a dashboard that helps to closely monitor the performance of industrial equipment (Automatic Optical Inspection machines) that you can see through the links below.
 Fusion: https://www.orbotech.com/pcb/products/fusion-series-aoi-for-pcb
