@@ -4,6 +4,10 @@ So that's basically a dashboard that helps to closely monitor the performance of
 Fusion: https://www.orbotech.com/pcb/products/fusion-series-aoi-for-pcb
 Discovery: https://www.orbotech.com/pcb/products/discovery2-series
 Built using some randomly generated data
-You can adapt this work according to your needs just replace the machines names in the code.  
+The code The code could be divided into 3 parts
+1-generating random data
+2-preprocessin and reshaping the data 
+3-building the app using dash
+And you can adapt this work according to your needs just replace the machines names in 
 Here's a demo showing the diffrent features: https://drive.google.com/file/d/17YvAvSAtWsxDB9ZE_0mnbdnDGTXEMIEe/view?usp=sharing
 Don't hesitate to contact me if you need further explanations or if you need some help.
